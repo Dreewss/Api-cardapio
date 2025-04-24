@@ -31,8 +31,8 @@ O banco de dados consiste nas seguintes tabelas:
 
 
 ```shellscript
-git clone https://github.com/seu-usuario/restaurant-menu-api.git
-cd restaurant-menu-api
+git clone https://github.com/Dreewss/Api-cardapio.git
+cd api-cardapio
 ```
 
 2. Instale as dependências:
