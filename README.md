@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ```shellscript
 # .env
-DATABASE_URL=postgresql://usuario:senha@seu-host-neon.com/restaurant_menu
+DATABASE_URL=postgresql://usuario:senha@seu-host-neon.com/api-cardapio
 ```
 
 4. Execute a aplicação:
